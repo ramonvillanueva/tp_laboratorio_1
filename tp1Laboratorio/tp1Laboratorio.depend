@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599964768 source:c:\users\villa\desktop\carpeta de git\tp_laboratorio_1\tp1laboratorio\main.c
+	<stdlib.h>
+	"operaciones.h"
+
+1599964767 c:\users\villa\desktop\carpeta de git\tp_laboratorio_1\tp1laboratorio\operaciones.h
+	<stdio.h>
+
+1599964768 source:c:\users\villa\desktop\carpeta de git\tp_laboratorio_1\tp1laboratorio\operaciones.c
+	"operaciones.h"
+
