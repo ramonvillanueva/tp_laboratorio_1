@@ -1,4 +1,4 @@
-
+//Ramon Villanueva 1B
 #include <stdlib.h>
 #include "operaciones.h"
 
@@ -53,9 +53,9 @@ int main()
             printf("El resultado de %d + %d es : %d",primerNumero ,segundoNumero ,resultadoSumar);
             printf("\nEl resultado de %d - %d es : %d",primerNumero ,segundoNumero ,resultadoResta);
             if(resultadoDivision==0){
-                printf("No es posible dividir por cero");
+                printf("\nNo es posible dividir por cero");
             }else{
-                printf("El resultado de %d / %d es: %f",primerNumero ,segundoNumero ,resultadoDivision);
+                printf("\nEl resultado de %d / %d es: %f",primerNumero ,segundoNumero ,resultadoDivision);
             }
 
             printf("\nEl resultado de %d / %d es : %d ",primerNumero ,segundoNumero , resultadoMultiplicacion);
